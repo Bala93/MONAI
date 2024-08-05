@@ -44,4 +44,4 @@ from .ssim_loss import SSIMLoss
 from .sure_loss import SURELoss
 from .tversky import TverskyLoss
 from .unified_focal_loss import AsymmetricUnifiedFocalLoss
-from .segcalib import NACLLoss
+from .nacl_loss import NACLLoss
